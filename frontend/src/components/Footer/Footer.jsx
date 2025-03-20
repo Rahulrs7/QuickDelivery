@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="footer-content-center">
-            <h2>COMPANY</h2>
+            <h2>QuickDelivery</h2>
             <ul>
                 <li>Home</li>
                 <li>About us</li>
@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © Tomato.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2025 © QuickDelivery.com - All Right Reserved.</p>
     </div>
   )
 }
